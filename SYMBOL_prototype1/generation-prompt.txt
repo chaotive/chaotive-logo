@@ -1,0 +1,59 @@
+Tool: built-in image_gen
+Reference: prototype 6 full logo.
+
+## Primary generation
+
+Use case: logo-brand.
+Asset type: standalone SYMBOL prototype 1 for CHAOTIVE.
+Input image: prototype 6 full logo is a visual reference for palette, rounded geometry, and CC concept. Do not include its wordmark.
+
+Create one standalone square CC symbol on an actual transparent 1:1 canvas. No brand name or text.
+
+OUTER SYMBOL:
+- Preserve the idea of two broad connected geometric C bodies forming one cohesive emblem.
+- The left half is a normal crimson C opening toward the center/right.
+- The right half is a horizontally mirrored deep-navy C facing toward the center/left.
+- CLOSE the right-side C rather than leaving its inward opening open: add a short clean navy structural bridge that joins its upper and lower inward terminals at the center seam, creating a closed right chamber while preserving the visual ancestry of a reversed C.
+- Join the red and navy halves cleanly at the top and bottom around the center seam. The whole mark should read as one compact object divided by color.
+- Use a clean, symmetrical, easily understood outer boundary: rounded geometric corners, smooth broad arcs, consistent stroke weight, blunt terminals.
+- The C bodies define the complete outer boundary. No graphics outside the emblem.
+
+CENTER HYBRID MOTIF:
+- Combine the asteroid/orbit and creativity spark into one simple central graphic rather than two separate side graphics.
+- Place a crisp four-point navy spark exactly at the center.
+- Wrap one short broken crimson orbital arc around the spark.
+- Place exactly three small crimson circular asteroid nodes on that orbit, with clearly different sizes.
+- The orbit and spark should visibly interact as one icon: creative energy at the center of controlled chaos.
+- Keep this motif small, bold, and immediately recognizable at avatar size, with generous negative space.
+- The entire hybrid motif stays inside the connected CC enclosure.
+
+Style: extremely clean flat vector-like videogame studio emblem; modern, memorable, slightly eccentric, simple enough for favicon, avatar, boot screen, stamp, and merchandise.
+Palette: existing solid crimson and deep near-black navy only.
+Composition: emblem centered and generously framed on square transparent canvas; strong silhouette.
+
+Constraints: no CHAOTIVE wordmark; right navy C visibly closed at its inward gap; red and navy C bodies connected; central combined orbit-plus-spark; exact three orbit nodes; one four-point spark; actual transparency.
+Avoid: open right C, separate orbit and spark zones, external particles, dust, noise, textures, gradients, shadows, bevels, arrows, controllers, shields, esports styling, background panel, mockup, letters other than the two implied C forms, tagline or extra text.
+
+## Right-boundary closure and cleanup
+
+Use case: precise-object-edit for a logo symbol.
+Input image: SYMBOL prototype 1 draft is the edit target.
+
+Preserve the complete two-color connected CC emblem, its size and position, red left body, navy right body, central crimson broken orbit with exactly three circular nodes, central navy four-point spark, rounded geometric construction, square transparent canvas and generous margins.
+
+Make two cleanup corrections only:
+
+1. CLOSE THE RIGHT BOUNDARY:
+- On the far-right side, the navy upper and lower arms currently have an open gap.
+- Fill that far-right gap with one clean solid navy vertical/rounded bridge joining the upper and lower navy arms.
+- The right navy half must become a fully closed continuous chamber with no opening to the outside.
+- Keep its ancestry as a reversed C visible through the internal negative-space contour and blue/red division, but the outer right boundary must be uninterrupted.
+- The complete outer symbol should now be a single closed enclosure.
+
+2. REMOVE ARTIFACTS:
+- Remove all red dust, grain, speckles, paint-like noise and stray particles from inside the left cavity and everywhere else on the canvas.
+- Retain only intentional clean shapes: the red and navy emblem bodies, one clean broken crimson orbital ring, exactly three crisp red circular nodes, and one clean navy four-point spark.
+- Use flat solid fills and sharp vector-like edges.
+
+Constraints: no wordmark or text; preserve the central orbit-plus-spark motif; close far-right navy edge; clean transparency.
+Avoid: any exterior gap, dust, texture, extra nodes, extra sparks, background, gradient, shadow, mockup or extra elements.

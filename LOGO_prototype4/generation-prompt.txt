@@ -1,0 +1,37 @@
+Tool: built-in image_gen
+Reference: prototype 3, used as the edit target and identity reference.
+
+Use case: logo-brand.
+Asset type: prototype 4 refinement of the supplied CHAOTIVE square logo.
+Input image: the supplied prototype 3 is the edit target and identity reference.
+
+Primary request: Refine this logo while preserving its square-first composition, rounded geometric character, Creative Chaos idea, red spark, navy orbital fragments, exact studio name, and transparent background.
+
+Change the upper emblem into a graphic pair of opposing Cs:
+- Keep the left C in crimson, opening toward the center/right.
+- Horizontally mirror the right C so it is a true backwards C in deep near-black navy, opening toward the center/left.
+- The two opposing openings should face one another and form an intentional, balanced central negative-space symbol, almost like two brackets holding creative tension.
+- They must remain visibly two C forms, one normal and one mirrored, with equal visual weight.
+- Preserve the small four-point creative spark as an integrated accent for the crimson C.
+- Preserve the restrained orbital break and three small displaced nodes as an integrated chaos accent for the navy mirrored C.
+- Keep the softer corner radii, smooth arcs, and blunt terminals. No sharp spikes.
+
+Make the lower brand name substantially smaller and optically centered under the CC emblem. Its overall width should closely match the width of the CC emblem, never extend wider. Leave a clean but compact gap between emblem and wordmark.
+
+Lower wordmark exact text: “CHAOTIVE”, spelled C H A O T I V E. Retain the same heavy custom geometric lettering language but remove the special oversized standalone red A. All letters should have equal typographic status, equal height, and cohesive spacing. Alternate the two established brand colors across individual letters in this exact sequence:
+C crimson,
+H deep navy,
+A crimson,
+O deep navy,
+T crimson,
+I deep navy,
+V crimson,
+E deep navy.
+The word must remain immediately readable. The alternating color rhythm should connect directly to the two-color CC above.
+
+Color decision: use only the existing crimson and deep near-black navy. Do not introduce a third color. Flat solid colors only.
+
+Composition: one finished logo centered on a genuine square 1:1 transparent canvas, generous equal outer breathing room, emblem dominant and wordmark secondary. Vector-like clean edges, strong at avatar size, modern independent videogame studio identity.
+
+Constraints: preserve the underlying idea and supporting symbols; exact spelling; right C visibly mirrored; wordmark no wider than emblem; all name letters same size; transparent background.
+Avoid: forward-facing second C, CA reading, giant A, single highlighted A, third color, gradients, shadows, bevels, texture, sharp arrowheads, esports shield, controllers, mockup, background panel, tagline, extra text, checkerboard.

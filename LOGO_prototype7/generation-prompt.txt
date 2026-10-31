@@ -1,0 +1,30 @@
+Tool: built-in image_gen
+References: SYMBOL prototype 1, BRANDNAME prototype 1, and prototype 6 for layout.
+
+Use case: compositing.
+Asset type: complete CHAOTIVE logo, LOGO prototype 7.
+Input images:
+- Image 1 is SYMBOL prototype 1. Use it as the exact upper symbol.
+- Image 2 is BRANDNAME prototype 1. Use it as the exact lower wordmark.
+- Image 3 is prototype 6 full logo, used only as reference for the established square stacked layout and spacing.
+
+Create one complete square logo by stacking Image 1 above Image 2 on an actual transparent 1:1 canvas.
+
+PRESERVE COMPONENTS:
+- Preserve the standalone symbol's connected crimson/navy enclosure, fully closed right navy boundary, centered red orbit with exactly three nodes, centered navy four-point spark, colors and geometry.
+- Preserve the standalone brand name exactly: CHAOTIVE spelling, custom letter shapes, navy CHAO, crimson TIVE, proportions and kerning.
+- Do not redesign, regenerate, recolor or merge either component internally.
+
+LAYOUT:
+- Symbol above, brand name below.
+- Symbol dominant in height; wordmark smaller.
+- Use a compact clean vertical gap.
+- Scale the two components as locked groups so they share the same visible left and right alignment guides and intended visual width.
+- Center both on the same vertical axis.
+- Maintain generous equal outer margins so the full lockup sits naturally inside a square.
+- The result should reproduce the established general layout of prototype 6 while using the newly separated components.
+
+Style: flat solid vector-like videogame studio logo; transparent background; crimson and deep navy only.
+
+Constraints: exact symbol component; exact brand-name component; exact CHAOTIVE spelling; CHAO navy; TIVE crimson; square transparent canvas; one finished logo.
+Avoid: extra text, tagline, background panel, mockup, new symbols, external particles, changed wordmark, changed colors, gradients, shadows, bevels or texture.

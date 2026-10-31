@@ -1,0 +1,19 @@
+Tool: built-in image_gen
+References: prototype 1 for the CHAOTIVE wordmark DNA; prototype 2 for the square stacked composition.
+
+Use case: logo-brand.
+Asset type: square-first videogame studio identity, prototype 3.
+Input images: Image 1 is prototype 1 and defines the desired CHAOTIVE wordmark DNA: dark navy custom letters with a large crimson A integrated through the name. Image 2 is prototype 2 and defines the square stacked composition only.
+Primary request: Create an original, polished square logo for CHAOTIVE, a solo videogame studio whose name means creative chaos.
+
+Composition: actual square 1:1 transparent canvas. A large “CC” monogram occupies the upper portion, clearly reading as two capital C letters for “Creative Chaos,” never as CA, CG, or interlocking rings. Below it, place the exact word “CHAOTIVE” — C H A O T I V E — using a refined version of prototype 1’s proposal: compact dark-navy custom wordmark with the crimson A slightly enlarged and integrated through the neighboring letters. Condense and balance the wordmark so the whole lockup remains naturally square, with consistent breathing room.
+
+CC emblem: two distinct but related C forms, one crimson and one deep near-black navy. Their relationship should feel playful and intelligently unsettled, using slight overlap and offset. Make the contours contemporary and somewhat softer than prototypes 1 and 2: modest corner radii, smooth arc segments, blunt terminals, no razor points or aggressive spikes.
+
+Supporting symbolism: accompany each C with one small, integrated symbol, subordinated to the letters rather than floating clip art. The “creative” C incorporates a simple four-point idea spark / tiny asterisk cut or accent. The “chaos” C incorporates a restrained orbital break with three small displaced nodes/fragments suggesting entropy and unpredictable motion. Keep these symbols minimal, geometric, and legible at icon size. They should feel built into the emblem’s negative space and endpoints.
+
+Style: memorable classic PC game studio personality interpreted through a modern independent studio identity; authored, slightly eccentric, clever, sturdy, friendly enough to avoid esports aggression. Flat solid shapes, vector-like clean edges, deep near-black navy and original-inspired crimson only. Strong one-color silhouette. Immediately readable at avatar size and suitable for boot screens, storefronts, social profiles, and merchandise.
+
+Text (verbatim): “CHAOTIVE”
+Constraints: one finished logo only, centered and generously framed; transparent background; exact spelling; two unmistakable Cs; symbol count restrained to one creative spark and one chaos orbital/node motif; preserve the signature crimson A in the lower wordmark.
+Avoid: giant A or CA emblem, sharp arrowheads, lightning bolts, gears, gamepads, controllers, shields, mascots, skulls, generic esports styling, 3D, gradients, bevels, shadows, texture, background panels, mockups, taglines, extra words, drawn checkerboard.

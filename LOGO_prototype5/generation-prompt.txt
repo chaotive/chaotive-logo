@@ -1,0 +1,79 @@
+Tool: built-in image_gen
+Reference: prototype 3, used as the visual and lettering reference.
+
+## Primary generation prompt
+
+Use case: logo-brand.
+Asset type: prototype 5 refinement of the supplied CHAOTIVE square logo.
+Input image: prototype 3 is the edit target and primary visual reference.
+
+Primary request: Keep the appealing overall character and custom CHAOTIVE lettering of prototype 3, but rebuild the color logic, CC symbolism, and exact alignment as specified below. One finished logo on a genuine square 1:1 transparent canvas.
+
+BRAND NAME:
+- Exact text: “CHAOTIVE”, spelled C H A O T I V E.
+- Preserve prototype 3’s bold, custom, slightly angular videogame-studio wordmark style and its distinctive letter construction. The word must be immediately readable.
+- Color the first four letters CHAO entirely in one solid deep near-black navy. C, H, A, and O must all be navy, including every part of the stylized A.
+- Color the final four letters TIVE entirely in one solid crimson red. T, I, V, and E must all be crimson.
+- The color break occurs exactly between O and T, visually hinting that two ideas/words are fused inside CHAOTIVE: chaos and creative.
+- Do not single out the A with a different color. Preserve its styled shape only.
+
+CC SYMBOL:
+- Place two large, distinct capital C forms above the brand name, retaining the softer geometric construction and rounded/blunt edges of prototype 3.
+- The first/left C represents CHAOS. Color it crimson, the inverse of the navy CHAO word half below.
+- Make the chaos meaning unmistakable: integrate a clear orbital system around/through the first C using one broken orbital arc and three displaced circular fragments/nodes of varied size, suggesting unstable motion and entropy. The orbital fragments must belong visually to this first C and remain secondary to the letter.
+- The second/right C represents CREATIVITY. Color it deep navy, the inverse of the crimson TIVE word half below.
+- Make the creativity meaning unmistakable: integrate one clear four-point spark/star plus one or two tiny secondary spark points into the negative space or terminal of the second C. The spark must belong visually to this second C and remain secondary to the letter.
+- Remove the old symbolism assignment from prototype 3: no creativity spark in the first C and no chaos orbit attached to the second C.
+- Both Cs should remain readable and balanced, with equal visual weight and a small intentional interaction/overlap.
+
+EXACT LAYOUT AND ALIGNMENT:
+- The complete CC symbol group and the complete CHAOTIVE wordmark must have EXACTLY THE SAME VISUAL WIDTH.
+- Their leftmost visible edges must align on one vertical guide.
+- Their rightmost visible edges must align on one vertical guide.
+- Neither element may overhang the other. Do not merely center elements of different widths.
+- Stack the CC symbol above and the CHAOTIVE wordmark below with a compact, consistent gap.
+- Together they form a balanced square lockup with generous equal outer margins.
+- The symbol remains dominant in height, while the wordmark is smaller, but their widths are identical.
+
+Color palette: only flat solid crimson and deep near-black navy. Actual transparent background. Vector-like clean edges, strong at avatar size, modern independent videogame studio identity with classic PC studio personality.
+
+Constraints: exact text and spelling; CHAO navy; TIVE crimson; first C crimson chaos/orbit; second C navy creativity/spark; symbol width exactly equals wordmark width; aligned left and right edges; preserve prototype 3 wordmark styling.
+Avoid: third color, red A, alternating individual letters, gradients, shadows, bevels, texture, sharp spikes, arrows, controllers, shields, generic esports styling, mockup, background panel, tagline, extra text, drawn checkerboard.
+
+## Alignment refinement 1
+
+Use case: precise-object-edit for a logo.
+Input image: prototype 5 draft is the edit target.
+
+Preserve the entire design exactly: square transparent canvas, crimson chaos C with its broken orbit and three nodes, navy creativity C with its sparks, all shapes, color assignments, exact CHAOTIVE spelling, CHAO navy, TIVE crimson, typography, vertical positions, and generous outer margins.
+
+Make one targeted geometric correction only:
+- The upper CC symbol group currently spans approximately x=64 to x=1184, width 1121 px.
+- The lower CHAOTIVE wordmark currently spans approximately x=39 to x=1215, width 1177 px.
+- Uniformly reduce the full lower CHAOTIVE wordmark horizontally and recenter it so its visible left edge aligns at x=64 and its visible right edge aligns at x=1184.
+- After correction, the complete wordmark and complete CC symbol group must have exactly identical visible widths and exactly aligned left and right bounds.
+- Keep the wordmark's height, letter proportions, letter shapes, baseline, color split, and internal spacing visually coherent; scale the full wordmark as one group rather than changing individual letters.
+- Do not move or alter the upper symbol.
+
+Constraints: change only the wordmark width and horizontal position; preserve transparency and every other design decision.
+Avoid: changing symbols, colors, text, letter styling, vertical alignment, canvas size, adding background, extra text, gradients or effects.
+
+## Alignment refinement 2
+
+Use case: precise-object-edit for a logo.
+Input image: current prototype 5 is the edit target.
+
+Preserve the image exactly. Make one tiny mechanical alignment adjustment to the lower CHAOTIVE wordmark only.
+
+Measured bounds:
+- Upper CC symbol: x=59 to x=1187, width 1129 px.
+- Lower wordmark: x=58 to x=1199, width 1142 px.
+
+Correction:
+- Uniformly shrink the complete lower wordmark horizontally by 1.14%.
+- Anchor/reposition it so the final visible wordmark bounds are exactly x=59 to x=1187.
+- This removes 1 pixel of left overhang and 12 pixels of right overhang.
+- Keep its height, baseline, color split, exact letter shapes and internal spacing unchanged as one locked group.
+- Do not alter any part of the upper symbol, canvas, transparency, vertical positions, colors or text.
+
+This is a mechanical final alignment correction only. No redesign, regeneration, stylistic changes, extra elements, background or effects.

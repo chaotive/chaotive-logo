@@ -1,0 +1,83 @@
+Tool: built-in image_gen
+Reference: prototype 5, used as the edit target.
+
+## Primary symbol refinement
+
+Use case: precise-object-edit for a logo.
+Asset type: prototype 6 refinement of the supplied CHAOTIVE square logo.
+Input image: prototype 5 is the edit target.
+
+PRESERVE EXACTLY:
+- Preserve the complete lower CHAOTIVE wordmark exactly as supplied: exact letter shapes, spelling, size, position, width, baseline, and color split. CHAO remains deep navy and TIVE remains crimson. Do not redesign or regenerate the wordmark.
+- Preserve the square transparent canvas, overall margins, compact vertical gap, and general symbol-to-wordmark proportions.
+- Preserve the established crimson and deep navy colors only.
+
+CHANGE ONLY THE UPPER CC SYMBOL:
+
+1. OPPOSING Cs
+- Keep the first/left C as a normal crimson C opening toward the center/right.
+- Horizontally reverse the second/right navy C so it opens toward the center/left.
+- The two openings face one another.
+- Both letters must remain instantly recognizable as C forms, one normal and one mirrored.
+
+2. ONE CONNECTED OBJECT
+- Connect the two Cs at their inner top and inner bottom terminals with short, clean shared joints/bridges.
+- The combined CC should read first as one cohesive graphical object with a single clean outer silhouette, then as two Cs distinguished primarily by crimson versus navy.
+- The connection must feel structural and intentional, like two colored halves of one emblem.
+- Avoid overlap clutter, gaps between the Cs, tangles, or a chain-link appearance.
+- Keep rounded geometric corners, smooth broad arcs, blunt terminals, and consistent stroke weight.
+
+3. SIMPLER INNER SYMBOLS
+- All supporting graphics must stay completely INSIDE the negative-space cavity of their corresponding C. Nothing may orbit outside the outer silhouette.
+- Inside the crimson chaos C: use one simple thin broken orbital arc and exactly three small circular asteroid/node dots of different sizes. The arc and dots should form an immediately recognizable miniature orbit while remaining clean at small size. Use crimson shapes only.
+- Inside the mirrored navy creativity C: use one simple four-point spark plus exactly one tiny secondary spark/dot. Make the large spark immediately recognizable and uncluttered. Use navy shapes only.
+- Keep generous empty space around the internal graphics. Remove all dust, debris, noise, extra particles, textures, and painterly fragments.
+
+4. BOUNDARIES AND LAYOUT
+- The two connected C bodies define the complete outer boundary of the upper symbol. Internal orbit and spark graphics may never extend outside them.
+- The complete connected CC symbol must use the same intended left and right alignment guides and visual width as the preserved CHAOTIVE wordmark below.
+- Keep the symbol centered and dominant in height within the square lockup.
+
+Style: clean flat vector-like logo, modern independent videogame studio, readable at avatar size, authored but simple.
+
+Constraints: edit upper symbol only; right C reversed and looking left; Cs connected into one object; crimson chaos C with simple internal orbit; navy creativity C with simple internal spark; exact preserved wordmark; transparent background.
+Avoid: external orbit, particles outside Cs, dust, noise, gradients, shadows, bevels, texture, sharp spikes, arrows, game controllers, shields, generic esports styling, extra text, tagline, mockup or background panel.
+
+## Cleanup refinement
+
+Use case: precise-object-edit for a logo.
+Input image: prototype 6 draft is the edit target.
+
+Preserve exactly:
+- The connected opposing-C emblem geometry, including the crimson left C, mirrored navy right C, central color seam, shared top/bottom joints, broad rounded silhouette, size and placement.
+- The complete CHAOTIVE wordmark exactly as shown, including CHAO navy, TIVE crimson, exact spelling, size and alignment.
+- Square transparent canvas and all clean solid shapes.
+
+Make one cleanup edit only:
+- Remove every stray speckle, dust particle, paint-like fragment, noise mark and accidental artifact from the entire canvas, including inside the red C cavity, above the emblem, around the left edge, and around/below the wordmark.
+- Inside the crimson C, retain only a clean minimal orbit: one smooth broken crimson arc and exactly three crisp solid crimson circular nodes of clearly different sizes. No other red marks.
+- Inside the navy mirrored C, retain only one crisp large four-point navy spark and exactly one small four-point navy spark. No other navy marks.
+- Keep all orbit and spark graphics entirely inside their corresponding C cavities, with generous transparent negative space.
+- Make all edges flat, solid, crisp and vector-like.
+
+Constraints: cleanup only; no redesign; no change to emblem boundary, connection, colors, wordmark, layout or transparency.
+Avoid: grain, dust, debris, glow, texture, gradients, shadow, extra dots, extra sparks, external fragments, background or mockup.
+
+## Width alignment refinement
+
+Use case: precise-object-edit for a logo.
+Input image: current prototype 6 is the edit target.
+
+Preserve the lower CHAOTIVE wordmark exactly and preserve the complete upper connected opposing-C design exactly: colors, reversed right C, connection seams, internal three-node orbit, two sparks, height, vertical position, shape proportions, clean solid style and transparent canvas.
+
+Make one mechanical layout correction to the complete upper symbol group only:
+- Measured lower wordmark bounds: x=56 to x=1196, width 1141 px.
+- Measured upper connected CC symbol bounds: x=129 to x=1126, width 998 px.
+- Uniformly widen the entire upper symbol group horizontally as one locked object, including its internal orbit and sparks, until its visible bounds are exactly x=56 to x=1196, width 1141 px.
+- Keep the symbol height unchanged and keep it vertically centered at its current y position.
+- The symbol and wordmark must share identical left and right visible boundaries.
+- Do not alter the wordmark.
+- During the correction, remove any remaining stray speckles or noise; retain only the intentional solid C bodies, one broken orbital arc with three circles, and two sparks.
+
+Constraints: horizontal scaling and cleanup only; preserve every design relationship, exact wordmark, colors, transparency and square canvas.
+Avoid: redesign, changed text, changed color split, new particles, external graphics, background, effects or extra text.

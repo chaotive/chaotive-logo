@@ -1,0 +1,17 @@
+Tool: built-in image_gen
+Reference: prototype 6 full logo.
+
+Use case: background-extraction / logo component isolation.
+Asset type: standalone CHAOTIVE brand-name component, BRANDNAME prototype 1.
+Input image: prototype 6 full logo is the edit target and source.
+
+Extract and preserve ONLY the lower CHAOTIVE wordmark from the supplied logo.
+- Exact text: “CHAOTIVE”, spelled C H A O T I V E.
+- Preserve the wordmark exactly as shown: custom letter shapes, proportions, kerning, baseline, deep navy CHAO, crimson TIVE, and color break between O and T.
+- Remove the entire upper CC symbol and every orbit, node, spark, dust mark, and all other graphics.
+- Place the unchanged wordmark centered on a clean transparent landscape-oriented canvas with generous equal padding.
+- Do not redesign, redraw, restyle, recolor, correct or reinterpret any letter.
+- Flat solid colors and clean transparent background.
+
+Constraints: one wordmark only; exact spelling; CHAO navy; TIVE crimson; actual transparency.
+Avoid: CC symbol, icons, tagline, extra text, background, shadows, gradients, texture, mockup, checkerboard.
