@@ -1,0 +1,12 @@
+Method: deterministic SVG refinement of SYMBOL prototype 2.
+
+Preserve the approved navy four-point spark exactly.
+
+- Make both connected opposing C bands thinner while preserving their outer silhouette, interlocking center seam, red-left/navy-right color division and closed right boundary.
+- Increase the negative space between the C enclosure and the central orbital graphic.
+- Replace the fragmented eccentric orbit with one clean circular crimson orbit centered exactly on the spark.
+- Place exactly three crimson planets directly on the orbit line.
+- Distribute the planet centers evenly at 120-degree intervals and vary their sizes only slightly.
+- Draw the continuous orbit beneath the planets so there is no visible separation or detached gap between any planet and the line.
+- Keep flat solid colors, transparent square canvas and precise vector geometry.
+- Do not alter the spark, brand name or palette.

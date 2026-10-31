@@ -1,0 +1,8 @@
+Method: deterministic SVG component assembly.
+References: SYMBOL prototype 3 and frozen BRANDNAME prototype 1.
+
+- Use SYMBOL prototype 3 unchanged above BRANDNAME prototype 1.
+- Preserve the established square transparent layout and shared visible width guides.
+- Keep both components centered on one vertical axis with a compact clear gap.
+- Do not alter the exact wordmark, symbol geometry, palette or spelling.
+- Do not add a background, tagline, shadow, texture, gradient or other graphic.

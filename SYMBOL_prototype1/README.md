@@ -4,7 +4,7 @@
 - **Version:** 1
 - **Created:** 2026-10-31
 - **Based on:** Prototype 6 CC symbol
-- **Status:** Active exploration
+- **Status:** Preserved previous symbol
 
 ## Definition
 

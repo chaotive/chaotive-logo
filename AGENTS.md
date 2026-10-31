@@ -18,7 +18,7 @@ Chaotive is the videogame studio brand of an individual developer. The name mean
 
 ## Prototype recordkeeping
 
-- Preserve legacy identity directions in their existing numbered `prototypeN/` folders.
+- Preserve assembled identity directions in their numbered `LOGO_prototypeN/` folders.
 - Version current work in three independent tracks: `LOGO_prototypeN/`, `BRANDNAME_prototypeN/`, and `SYMBOL_prototypeN/`.
 - LOGO means the assembled BRAND NAME + SYMBOL lockup. BRAND NAME is the wordmark alone. SYMBOL is the graphical mark alone.
 - BRANDNAME prototype 1 is frozen until the user explicitly reopens that track. Continue current design work only in SYMBOL; create a corresponding new LOGO version when assembling an updated symbol with the frozen brand name.
@@ -40,7 +40,18 @@ Prototype 5 returns to prototype 3's favored wordmark styling. CHAO is navy and 
 
 Prototype 6 preserves prototype 5's wordmark. The crimson normal C and mirrored navy C face inward and connect at their top and bottom terminals to read as one two-color emblem. Keep the simplified three-node orbit inside the chaos C and the simplified two-spark motif inside the creativity C. The C bodies define the clean outer boundary.
 
-The identity is now split into three tracks. BRANDNAME prototype 1 freezes the navy CHAO / crimson TIVE wordmark. SYMBOL prototype 1 is the active exploration: its navy right boundary is closed and a crimson three-node orbit wraps a central navy spark. LOGO prototype 7 assembles those two components in the established square lockup.
+The identity is now split into three tracks. BRANDNAME prototype 1 freezes the navy CHAO / crimson TIVE wordmark. SYMBOL prototype 4 is the active exploration: its connected opposing C enclosure is now a wide 3:2 component using the exact dominant wordmark colors, while preserving the approved spark and continuous three-planet orbit. LOGO prototype 10 allocates the upper two-thirds of the square lockup to SYMBOL prototype 4 and the lower third to the frozen wordmark.
+
+## Active identity decisions
+
+- **Working track:** Continue iterating only on SYMBOL unless the user explicitly reopens BRAND NAME. Each accepted symbol iteration also receives a new assembled LOGO version.
+- **Frozen wordmark:** BRANDNAME prototype 1 remains unchanged. Preserve the exact CHAOTIVE spelling, custom letterforms, proportions and kerning. CHAO is navy and TIVE is crimson.
+- **Approved spark:** The navy four-point creativity spark from SYMBOL prototype 2 is approved. Keep its path, size and exact central position unchanged unless the user explicitly requests a spark revision.
+- **C enclosure:** Keep the connected opposing-C concept, crimson left half, navy right half, interlocking top/bottom seam and fully closed far-right navy boundary. Current preference is for fine styled bands, generous inner negative space and a wide 3:2 enclosure rather than a square enclosure.
+- **Orbit system:** Use one clean continuous crimson circle centered exactly on the spark. Keep exactly three planets, with their centers directly on the orbit line and the line continuing beneath them so no planet appears detached. The current balanced arrangement uses 120-degree spacing and only subtle size differences.
+- **Composition:** SYMBOL is a transparent wide 3:2 component. The assembled LOGO remains square: reserve its upper two-thirds for SYMBOL and its lower third for the frozen BRAND NAME. Both share the same visible left and right guides and vertical center axis.
+- **Production geometry:** SYMBOL prototypes 2 onward have editable SVG masters and transparent PNG exports. Prefer deterministic SVG edits for precise geometry; use the PNGs in the self-contained HTML showcase.
+- **Palette and finish:** Match BRANDNAME prototype 1 using its sampled dominant colors: crimson `#FB011C` and navy `#013787`. Use these as flat solid symbol colors. Avoid unrelated hues, shading, glows, dust, grain, stray particles, backgrounds and raster artifacts.
 
 The first generated concept retains the original's oversized red A and dark lettering, with angular forms and controlled collisions. This is an initial design direction, not a confirmed final identity.
 

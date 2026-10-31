@@ -1,0 +1,9 @@
+Method: deterministic SVG refinement of SYMBOL prototype 3.
+
+- Preserve the approved four-point spark geometry, circular orbit and three planets seated directly on the orbit line.
+- Match the frozen BRANDNAME prototype 1 colors using its dominant opaque pixel values: navy #013787 and crimson #FB011C.
+- Change the standalone symbol canvas and connected opposing-C enclosure from square to a wide 3:2 aspect ratio.
+- Preserve the fine band weight, interlocking center seam, crimson left half, navy right half and fully closed far-right boundary.
+- Keep the circular orbit centered within the widened enclosure with generous negative space on every side.
+- Use flat solid fills, transparent background and precise vector geometry.
+- Do not alter the frozen wordmark or introduce gradients, shadows, texture, dust or additional elements.

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Chaotive Creative Chaos symbol prototype 2</title>
+  <desc id="desc">Thin connected opposing C forms surround a central creativity spark and an eccentric fragmented chaos orbit.</desc>
+  <defs>
+    <path id="connectedCs" fill-rule="evenodd" d="
+      M 300 190
+      H 525
+      C 565 190 570 228 600 228
+      C 630 228 635 190 675 190
+      H 900
+      L 1040 330
+      V 870
+      L 900 1010
+      H 675
+      C 635 1010 630 972 600 972
+      C 570 972 565 1010 525 1010
+      H 300
+      L 160 870
+      V 330
+      Z
+
+      M 365 345
+      H 515
+      C 555 345 565 385 600 385
+      C 635 385 645 345 685 345
+      H 835
+      L 885 395
+      V 805
+      L 835 855
+      H 685
+      C 645 855 635 815 600 815
+      C 565 815 555 855 515 855
+      H 365
+      L 315 805
+      V 395
+      Z"/>
+
+    <clipPath id="leftHalf">
+      <path d="M 0 0 H 600 C 555 125 645 205 600 300 C 555 395 645 485 600 600 C 555 715 645 805 600 900 C 555 995 645 1075 600 1200 H 0 Z"/>
+    </clipPath>
+    <clipPath id="rightHalf">
+      <path d="M 1200 0 H 600 C 555 125 645 205 600 300 C 555 395 645 485 600 600 C 555 715 645 805 600 900 C 555 995 645 1075 600 1200 H 1200 Z"/>
+    </clipPath>
+  </defs>
+
+  <g aria-label="Connected opposing C enclosure">
+    <use href="#connectedCs" fill="#f51d42" clip-path="url(#leftHalf)"/>
+    <use href="#connectedCs" fill="#102d5b" clip-path="url(#rightHalf)"/>
+  </g>
+
+  <g fill="none" stroke="#f51d42" stroke-width="25" stroke-linecap="round" aria-label="Fragmented chaotic orbit">
+    <path d="M 410 545 C 430 445 505 392 625 402"/>
+    <path d="M 708 430 C 810 475 835 565 792 655"/>
+    <path d="M 757 733 C 655 825 520 810 432 715"/>
+  </g>
+
+  <g fill="#f51d42" aria-label="Three asteroid nodes">
+    <circle cx="401" cy="568" r="22"/>
+    <circle cx="692" cy="423" r="31"/>
+    <circle cx="772" cy="716" r="17"/>
+  </g>
+
+  <path fill="#102d5b" aria-label="Central creativity spark" d="
+    M 600 500
+    C 616 553 647 584 700 600
+    C 647 616 616 647 600 700
+    C 584 647 553 616 500 600
+    C 553 584 584 553 600 500
+    Z"/>
+</svg>

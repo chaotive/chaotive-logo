@@ -1,0 +1,10 @@
+Method: deterministic SVG component assembly.
+References: SYMBOL prototype 4 and frozen BRANDNAME prototype 1.
+
+- Build a transparent square lockup.
+- Allocate the upper two-thirds of the square to the wide SYMBOL prototype 4.
+- Allocate the lower one-third to BRANDNAME prototype 1.
+- Keep both components centered on one vertical axis and aligned to the same intended visible width.
+- Preserve the exact symbol geometry and sampled palette.
+- Preserve the exact frozen wordmark, spelling, proportions and kerning.
+- Do not add a background, tagline, shadow, texture, gradient or other graphic.

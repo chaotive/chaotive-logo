@@ -10,11 +10,11 @@ The identity now uses three independently versioned tracks:
 
 | Element | Current version | Status | Asset |
 | --- | --- | --- | --- |
-| LOGO | [Prototype 7](LOGO_prototype7/README.md) | Current assembled logo | [PNG](LOGO_prototype7/chaotive-logo-p7.png) |
+| LOGO | [Prototype 10](LOGO_prototype10/README.md) | Current assembled logo | [PNG](LOGO_prototype10/chaotive-logo-p10.png) |
 | BRAND NAME | [Prototype 1](BRANDNAME_prototype1/README.md) | Frozen for now | [PNG](BRANDNAME_prototype1/chaotive-brandname-p1.png) |
-| SYMBOL | [Prototype 1](SYMBOL_prototype1/README.md) | Active exploration | [PNG](SYMBOL_prototype1/chaotive-symbol-p1.png) |
+| SYMBOL | [Prototype 4](SYMBOL_prototype4/README.md) | Active exploration | [PNG](SYMBOL_prototype4/chaotive-symbol-p4.png) · [SVG](SYMBOL_prototype4/chaotive-symbol-p4.svg) |
 
-**SYMBOL prototype 1 + BRANDNAME prototype 1 = LOGO prototype 7**
+**SYMBOL prototype 4 + BRANDNAME prototype 1 = LOGO prototype 10**
 
 ## Legacy full-logo prototype index
 
@@ -27,12 +27,15 @@ The identity now uses three independently versioned tracks:
 | [Prototype 5](LOGO_prototype5/README.md) | Split-name Creative Chaos system | Colors CHAO and TIVE as two word groups, reverses the CC color relationship, and clarifies chaos/orbit and creativity/spark symbolism. | [Logo](LOGO_prototype5/chaotive-logo-v5.png) · [Showcase](LOGO_prototype5/logo-showcase.html) |
 | [Prototype 6](LOGO_prototype6/README.md) | Connected opposing CC | Mirrors the right C, connects both Cs as one two-color emblem, and simplifies the internal orbit and sparks. | [Logo](LOGO_prototype6/chaotive-logo-v6.png) · [Showcase](LOGO_prototype6/logo-showcase.html) |
 | [LOGO prototype 7](LOGO_prototype7/README.md) | Separated component system | Combines the frozen wordmark with SYMBOL prototype 1, whose closed navy boundary contains a central orbit-plus-spark motif. | [Logo](LOGO_prototype7/chaotive-logo-p7.png) |
+| [LOGO prototype 8](LOGO_prototype8/README.md) | Thin Creative Chaos system | Combines the frozen wordmark with SYMBOL prototype 2: thinner styled C bands, a centered spark pivot and a more eccentric fragmented orbit. | [PNG](LOGO_prototype8/chaotive-logo-p8.png) · [SVG](LOGO_prototype8/chaotive-logo-p8.svg) |
+| [LOGO prototype 9](LOGO_prototype9/README.md) | Circular orbit system | Keeps the approved spark, thins the C enclosure again, and seats three balanced planets directly on one continuous circular orbit. | [PNG](LOGO_prototype9/chaotive-logo-p9.png) · [SVG](LOGO_prototype9/chaotive-logo-p9.svg) |
+| [LOGO prototype 10](LOGO_prototype10/README.md) | Wide two-thirds symbol system | Matches the frozen wordmark palette, widens the C enclosure to 3:2, and divides the square lockup into two-thirds symbol and one-third brand name. | [PNG](LOGO_prototype10/chaotive-logo-p10.png) · [SVG](LOGO_prototype10/chaotive-logo-p10.svg) |
 
-**Latest assembled logo:** LOGO prototype 7.
+**Latest assembled logo:** LOGO prototype 10.
 
 ## Versioning convention
 
-- Preserve legacy directions in their existing numbered `prototypeN/` folders.
+- Preserve assembled-logo directions in their numbered `LOGO_prototypeN/` folders.
 - Version new work independently as `LOGO_prototypeN/`, `BRANDNAME_prototypeN/`, and `SYMBOL_prototypeN/`.
 - Keep BRAND NAME unchanged while its status is frozen. Continue current exploration only in the SYMBOL track; create a new assembled LOGO version when a symbol is combined with the frozen wordmark.
 - Do not overwrite earlier prototypes when exploring a new direction.

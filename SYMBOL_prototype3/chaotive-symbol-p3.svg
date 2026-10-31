@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Chaotive Creative Chaos symbol prototype 3</title>
+  <desc id="desc">Fine connected opposing C forms enclose a centered spark, a continuous circular orbit and three planets seated directly on the orbit.</desc>
+  <defs>
+    <path id="connectedCs" fill-rule="evenodd" d="
+      M 300 190
+      H 525
+      C 565 190 570 228 600 228
+      C 630 228 635 190 675 190
+      H 900
+      L 1040 330
+      V 870
+      L 900 1010
+      H 675
+      C 635 1010 630 972 600 972
+      C 570 972 565 1010 525 1010
+      H 300
+      L 160 870
+      V 330
+      Z
+
+      M 335 295
+      H 515
+      C 560 295 565 335 600 335
+      C 635 335 640 295 685 295
+      H 865
+      L 935 365
+      V 835
+      L 865 905
+      H 685
+      C 640 905 635 865 600 865
+      C 565 865 560 905 515 905
+      H 335
+      L 265 835
+      V 365
+      Z"/>
+
+    <clipPath id="leftHalf">
+      <path d="M 0 0 H 600 C 555 125 645 205 600 300 C 555 395 645 485 600 600 C 555 715 645 805 600 900 C 555 995 645 1075 600 1200 H 0 Z"/>
+    </clipPath>
+    <clipPath id="rightHalf">
+      <path d="M 1200 0 H 600 C 555 125 645 205 600 300 C 555 395 645 485 600 600 C 555 715 645 805 600 900 C 555 995 645 1075 600 1200 H 1200 Z"/>
+    </clipPath>
+  </defs>
+
+  <g aria-label="Fine connected opposing C enclosure">
+    <use href="#connectedCs" fill="#f51d42" clip-path="url(#leftHalf)"/>
+    <use href="#connectedCs" fill="#102d5b" clip-path="url(#rightHalf)"/>
+  </g>
+
+  <circle cx="600" cy="600" r="200" fill="none" stroke="#f51d42" stroke-width="22" aria-label="Continuous circular orbit"/>
+
+  <g fill="#f51d42" aria-label="Three planets seated on the orbit">
+    <circle cx="600" cy="400" r="24"/>
+    <circle cx="773" cy="700" r="22"/>
+    <circle cx="427" cy="700" r="20"/>
+  </g>
+
+  <path fill="#102d5b" aria-label="Central creativity spark" d="
+    M 600 500
+    C 616 553 647 584 700 600
+    C 647 616 616 647 600 700
+    C 584 647 553 616 500 600
+    C 553 584 584 553 600 500
+    Z"/>
+</svg>

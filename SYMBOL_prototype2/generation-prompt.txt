@@ -1,0 +1,26 @@
+Tool: built-in image_gen followed by a deterministic vector redraw for production-clean geometry.
+Reference: SYMBOL prototype 1.
+
+## Primary refinement prompt
+
+Use case: logo-brand.
+Asset type: standalone CHAOTIVE SYMBOL prototype 2, square videogame studio mark.
+Input image: SYMBOL prototype 1 is the edit target and identity reference.
+
+Refine the existing connected opposing-CC emblem while preserving its two-color identity and basic silhouette. Make the outer C lines significantly thinner, more elegant and more deliberately styled. Rebalance the central orbit-and-spark motif so the spark is unmistakably the exact central pivot and the orbit feels more chaotic.
+
+- Preserve one crimson left C and one deep navy right C, joined into one cohesive symbol.
+- Preserve the right-side navy C as a closed outer boundary.
+- Reduce both C band weights by roughly 35–40 percent.
+- Give the bands subtle tapered character, controlled chamfered/rounded transitions and a clean center seam.
+- Place one crisp navy four-point spark exactly at the geometric center as the dominant pivot.
+- Surround it with three separated crimson arcs at varied radii and angles.
+- Add exactly three unequal crimson asteroid nodes, spaced asymmetrically.
+- Keep generous negative space between the orbit and outer C bands.
+- Use a transparent square canvas and flat solid crimson/navy fills.
+
+Avoid gradients, highlights, outlines, halos, shadows, dust, grain, fuzzy residue, extra particles, a perfect circular orbit, text or a background.
+
+## Cleanup decision
+
+The generated refinement established the intended proportions but repeatedly retained source-image gradient and dust artifacts. The final delivered asset therefore translates that direction into explicit vector paths: a flat two-color connected enclosure, three clean eccentric orbit fragments, exactly three nodes and one centered four-point spark.
