@@ -1,6 +1,6 @@
 # Chaotive — current working design specification
 
-Updated: 2026-11-01. Current study: SYMBOL 33 + frozen BRANDNAME 1 = LOGO 42. Parent comparison: SYMBOL 32 / LOGO 41.
+Updated: 2026-11-01. User-selected final candidate for this iteration: SYMBOL 35 + frozen BRANDNAME 1 = LOGO 44. Preserve this baseline; future design changes receive new versions. The Fibonacci study below describes SYMBOL 33 / LOGO 42, followed by the spacing and transparency revisions incorporated into the final candidate.
 
 ## Identity and components
 
@@ -56,3 +56,11 @@ Fibonacci ratios provide a repeatable design heuristic; they do not prove improv
 
 - [MIT: ratios of successive Fibonacci numbers](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter00/section02.html).
 - [Eurographics 2023: golden-ratio logo construction research](https://www.yongliangyang.net/docs/goldenLogo_eg23.pdf).
+
+## Subsequent spacing revision — SYMBOL 34 / LOGO 43
+
+Top C spans shortened; outer sides move inward equally by 80 units. Dot centers now share x=495 on the left and x=705 on the right. Final-dot horizontal offset from spark center x=600 is 105 units, matching right dot vertical separation 275−170=105 and left separation 630−525=105. This is a horizontal center-to-center interpretation, not edge clearance or Euclidean distance. All Fibonacci refinements and layout scales remain preserved.
+
+## Transparent spark center — SYMBOL 35 / LOGO 44
+
+Add a circular alpha cutout centered at (600,400), radius 16.18, equal to the orbital dots. This is transparent through all backgrounds, not a painted circle. All prior artwork and layout remain unchanged.

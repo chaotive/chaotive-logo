@@ -1,0 +1,1 @@
+SYMBOL prototype 34 + frozen BRANDNAME 1; current square layout scales preserved.

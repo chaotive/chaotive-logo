@@ -2,7 +2,7 @@
 
 ## Current authoritative state
 
-As of 2026-11-01, current exploration is SYMBOL prototype 33 + frozen BRANDNAME prototype 1 = LOGO prototype 42. Read `DESIGN-DETAILS.md` for the consolidated current construction, Fibonacci formulas, exact values, layout and preserved constraints. It supersedes conflicting historical decisions below. Historical notes remain to explain evolution, not to override the latest specification.
+As of 2026-11-01, the user-selected final candidate for this iteration is SYMBOL prototype 35 + frozen BRANDNAME prototype 1 = LOGO prototype 44. Preserve these assets as the iteration baseline. Do not continue design changes unless requested; future revisions use new numbered prototypes. This is the final candidate for this iteration, not a declaration that no future iteration is possible. Read `DESIGN-DETAILS.md` for construction, formulas and constraints. This state supersedes conflicting historical notes below.
 
 ## User-facing communication
 
@@ -193,3 +193,11 @@ Current: SYMBOL prototype 32 + frozen BRANDNAME 1 = LOGO prototype 41. Two segme
 ## Latest proportional study — SYMBOL 33 / LOGO 42
 
 Current exploration: SYMBOL prototype 33 + frozen BRANDNAME 1 = LOGO prototype 42. Small Fibonacci-guided adjustments only: taper intermediates blend 25% toward normalized 13:21:34:55 steps; dots radius 16.18; spark inset 47.746 with tips unchanged. Preserve 8-unit ends, maximum 51.201 plateau, final-only taper, centerlines and layout. Fibonacci ratios are a heuristic, not proof of better aesthetics. Sources and rationale are in SYMBOL_prototype33/research-notes.md.
+
+## Latest decisions — SYMBOL 34 / LOGO 43
+
+Current: SYMBOL prototype 34 + frozen BRANDNAME 1 = LOGO prototype 43. Shorten top spans and move both outer C sides inward 80 units symmetrically. Dot guides become x=495 and x=705. Horizontal distance from final dot center to spark center is 105 units, matching vertical distance between paired dots. Preserve Fibonacci weights, dot radii, spark and diagonal endings. This spacing rule supersedes older dot guide values.
+
+## Latest decisions — SYMBOL 35 / LOGO 44
+
+Current: SYMBOL prototype 35 + frozen BRANDNAME 1 = LOGO prototype 44. Spark has a true transparent circular hole at (600,400), radius 16.18, matching orbital dots. Preserve all prior geometry and layout. Center alpha verified as zero in PNG export.

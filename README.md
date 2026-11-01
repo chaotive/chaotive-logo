@@ -12,11 +12,11 @@ The identity now uses three independently versioned tracks:
 
 | Element | Current version | Status | Asset |
 | --- | --- | --- | --- |
-| LOGO | [Prototype 42](LOGO_prototype42/README.md) | Current proportional study | [PNG](LOGO_prototype42/chaotive-logo-p42.png) · [SVG](LOGO_prototype42/chaotive-logo-p42.svg) |
+| LOGO | [Prototype 44](LOGO_prototype44/README.md) | Final candidate — this iteration | [PNG](LOGO_prototype44/chaotive-logo-p44.png) · [SVG](LOGO_prototype44/chaotive-logo-p44.svg) |
 | BRAND NAME | [Prototype 1](BRANDNAME_prototype1/README.md) | Frozen for now | [PNG](BRANDNAME_prototype1/chaotive-brandname-p1.png) |
-| SYMBOL | [Prototype 33](SYMBOL_prototype33/README.md) | Current proportional study | [PNG](SYMBOL_prototype33/chaotive-symbol-p33.png) · [SVG](SYMBOL_prototype33/chaotive-symbol-p33.svg) |
+| SYMBOL | [Prototype 35](SYMBOL_prototype35/README.md) | Final candidate — this iteration | [PNG](SYMBOL_prototype35/chaotive-symbol-p35.png) · [SVG](SYMBOL_prototype35/chaotive-symbol-p35.svg) |
 
-**SYMBOL prototype 33 + BRANDNAME prototype 1 = LOGO prototype 42**
+**Final candidate for this iteration: SYMBOL prototype 35 + BRANDNAME prototype 1 = LOGO prototype 44.** Selected by the user on 2026-11-01. Preserve these assets as the iteration baseline; future design work starts in new versions.
 
 Current construction, exact proportions, rationale and preserved constraints are documented in [the working design specification](DESIGN-DETAILS.md).
 
@@ -37,7 +37,7 @@ Current construction, exact proportions, rationale and preserved constraints are
 | [LOGO prototype 11](LOGO_prototype11/README.md) | Inner-first angular frame | Reduces the wide C enclosure to a wordmark-compatible angular frame and gives the orbit-and-spark graphic clear visual priority. | [PNG](LOGO_prototype11/chaotive-logo-p11.png) · [SVG](LOGO_prototype11/chaotive-logo-p11.svg) |
 | [LOGO prototype 12](LOGO_prototype12/README.md) | Connected energy system | Feeds both opposing Cs diagonally into a larger orbit through tapered junctions and enlarges the central spark for greater logo-scale dominance. | [PNG](LOGO_prototype12/chaotive-logo-p12.png) · [SVG](LOGO_prototype12/chaotive-logo-p12.svg) |
 
-**Latest assembled logo:** LOGO prototype 42.
+**Latest assembled logo:** LOGO prototype 44.
 
 ## Versioning convention
 
@@ -108,3 +108,7 @@ Latest: [SYMBOL prototype 31](SYMBOL_prototype31/README.md) / [LOGO prototype 40
 Latest: [SYMBOL prototype 32](SYMBOL_prototype32/README.md) / [LOGO prototype 41](LOGO_prototype41/README.md): constant thick preceding segments and rapid final-only taper.
 
 Latest: [SYMBOL prototype 33](SYMBOL_prototype33/README.md) / [LOGO prototype 42](LOGO_prototype42/README.md): small Fibonacci-guided proportional study.
+
+Latest: [SYMBOL prototype 34](SYMBOL_prototype34/README.md) / [LOGO prototype 43](LOGO_prototype43/README.md): shorter top spans and equal center-based dot spacing.
+
+Latest: [SYMBOL prototype 35](SYMBOL_prototype35/README.md) / [LOGO prototype 44](LOGO_prototype44/README.md): transparent spark center matching dot size.

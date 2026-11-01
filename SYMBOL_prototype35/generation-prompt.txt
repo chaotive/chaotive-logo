@@ -1,0 +1,1 @@
+Transparent circular cutout at spark center (600,400), radius 16.18 units, matching all orbital dots. A true alpha mask creates the hole; no background-colored fill. All other artwork preserved.
