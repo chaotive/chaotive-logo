@@ -1,0 +1,1 @@
+SYMBOL prototype 33 + frozen BRANDNAME 1. Existing layout and square fitting preserved.

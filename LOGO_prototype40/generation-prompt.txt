@@ -1,0 +1,1 @@
+SYMBOL prototype 31 + frozen BRANDNAME 1; existing square layout preserved.

@@ -1,5 +1,9 @@
 # Chaotive brand direction
 
+## Current authoritative state
+
+As of 2026-11-01, current exploration is SYMBOL prototype 33 + frozen BRANDNAME prototype 1 = LOGO prototype 42. Read `DESIGN-DETAILS.md` for the consolidated current construction, Fibonacci formulas, exact values, layout and preserved constraints. It supersedes conflicting historical decisions below. Historical notes remain to explain evolution, not to override the latest specification.
+
 ## User-facing communication
 
 - Show design results, image previews, meaningful visual changes and links to the relevant logo assets or showcase.
@@ -157,3 +161,35 @@ Current: SYMBOL prototype 27 + frozen BRANDNAME prototype 1 = LOGO prototype 33.
 ## Latest decisions — SYMBOL 28 / LOGO 34
 
 Current: SYMBOL prototype 28 + frozen BRANDNAME prototype 1 = LOGO prototype 34. Maximum symbol C stroke matches the frozen wordmark C main stem at actual assembly scale: approximately 56.85 rendered pixels, or 43.522 symbol units. Preserve 8-unit free beginnings and progressive widening. All angular shapes, dots and spark remain preserved.
+
+## Latest layout — LOGO 35
+
+Current: unchanged SYMBOL prototype 28 + frozen BRANDNAME prototype 1 = LOGO prototype 35. Balanced square stacked lockup: symbol approximately 90% of wordmark visible width, shared center axis, deliberate gap and balanced outer margins. Component shapes unchanged. These optical proportions supersede the earlier oversized symbol allocation for the assembled logo. There is no universal industry symbol-to-wordmark ratio; references support consistent proportions, clear space and legibility.
+
+## Latest layout — LOGO 36
+
+Current: unchanged SYMBOL prototype 28 + frozen BRANDNAME prototype 1 = LOGO prototype 36. Symbol and wordmark must read as one unit. Preserve LOGO 35 component scales but reduce their visible gap by 70 units to approximately 40 units on the 1254-square canvas, moving each component 35 units toward the other. This supersedes LOGO 35 separation.
+
+## Latest layout — LOGO 37
+
+Current: unchanged SYMBOL 28 + frozen BRANDNAME 1 = LOGO prototype 37. Preserve LOGO 36 component proportions and gap, then uniformly fit the full visible lockup to the maximum square-canvas dimension. Current width is the limiting dimension and fills the canvas; remaining vertical transparency is centered. No added exterior padding in the master asset.
+
+## Latest decisions — SYMBOL 29 / LOGO 38
+
+Current: SYMBOL prototype 29 + frozen BRANDNAME 1 = LOGO prototype 38. Preserve LOGO 37 layout. Recalibrate maximum C width to match the wordmark C stem at current relative component scales: 51.201 symbol units, with unchanged 8-unit ends and progressive growth. This supersedes the 43.522-unit calibration from the older layout.
+
+## Latest decisions — SYMBOL 30 / LOGO 39
+
+Current: SYMBOL prototype 30 + frozen BRANDNAME 1 = LOGO prototype 39. Remove the final three orbit-side segments from each C and place its orbital dot at the new end. Keep the beginning dots, angular spark, remaining taper and current logo layout.
+
+## Latest decisions — SYMBOL 31 / LOGO 40
+
+Current: SYMBOL prototype 31 + frozen BRANDNAME 1 = LOGO prototype 40. Ending width narrows progressively across the final two segments: maximum 51.201 to 28 to 8 units. Retain orbital dots at the ends. Both left dots share x=415; both right dots share x=785. Preserve all remaining proportions and layout.
+
+## Latest decisions — SYMBOL 32 / LOGO 41
+
+Current: SYMBOL prototype 32 + frozen BRANDNAME 1 = LOGO prototype 41. Two segments preceding the final segment share constant maximum thickness (51.201 units). Rapid narrowing happens only on the final segment, to 8 units. Both beginning and end are equally thin at 8 units. Preserve paired dot alignment and all other artwork/layout.
+
+## Latest proportional study — SYMBOL 33 / LOGO 42
+
+Current exploration: SYMBOL prototype 33 + frozen BRANDNAME 1 = LOGO prototype 42. Small Fibonacci-guided adjustments only: taper intermediates blend 25% toward normalized 13:21:34:55 steps; dots radius 16.18; spark inset 47.746 with tips unchanged. Preserve 8-unit ends, maximum 51.201 plateau, final-only taper, centerlines and layout. Fibonacci ratios are a heuristic, not proof of better aesthetics. Sources and rationale are in SYMBOL_prototype33/research-notes.md.

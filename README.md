@@ -12,11 +12,13 @@ The identity now uses three independently versioned tracks:
 
 | Element | Current version | Status | Asset |
 | --- | --- | --- | --- |
-| LOGO | [Prototype 12](LOGO_prototype12/README.md) | Current assembled logo | [PNG](LOGO_prototype12/chaotive-logo-p12.png) |
+| LOGO | [Prototype 42](LOGO_prototype42/README.md) | Current proportional study | [PNG](LOGO_prototype42/chaotive-logo-p42.png) · [SVG](LOGO_prototype42/chaotive-logo-p42.svg) |
 | BRAND NAME | [Prototype 1](BRANDNAME_prototype1/README.md) | Frozen for now | [PNG](BRANDNAME_prototype1/chaotive-brandname-p1.png) |
-| SYMBOL | [Prototype 6](SYMBOL_prototype6/README.md) | Active exploration | [PNG](SYMBOL_prototype6/chaotive-symbol-p6.png) · [SVG](SYMBOL_prototype6/chaotive-symbol-p6.svg) |
+| SYMBOL | [Prototype 33](SYMBOL_prototype33/README.md) | Current proportional study | [PNG](SYMBOL_prototype33/chaotive-symbol-p33.png) · [SVG](SYMBOL_prototype33/chaotive-symbol-p33.svg) |
 
-**SYMBOL prototype 6 + BRANDNAME prototype 1 = LOGO prototype 12**
+**SYMBOL prototype 33 + BRANDNAME prototype 1 = LOGO prototype 42**
+
+Current construction, exact proportions, rationale and preserved constraints are documented in [the working design specification](DESIGN-DETAILS.md).
 
 ## Legacy full-logo prototype index
 
@@ -35,7 +37,7 @@ The identity now uses three independently versioned tracks:
 | [LOGO prototype 11](LOGO_prototype11/README.md) | Inner-first angular frame | Reduces the wide C enclosure to a wordmark-compatible angular frame and gives the orbit-and-spark graphic clear visual priority. | [PNG](LOGO_prototype11/chaotive-logo-p11.png) · [SVG](LOGO_prototype11/chaotive-logo-p11.svg) |
 | [LOGO prototype 12](LOGO_prototype12/README.md) | Connected energy system | Feeds both opposing Cs diagonally into a larger orbit through tapered junctions and enlarges the central spark for greater logo-scale dominance. | [PNG](LOGO_prototype12/chaotive-logo-p12.png) · [SVG](LOGO_prototype12/chaotive-logo-p12.svg) |
 
-**Latest assembled logo:** LOGO prototype 34.
+**Latest assembled logo:** LOGO prototype 42.
 
 ## Versioning convention
 
@@ -90,3 +92,19 @@ Latest: [SYMBOL prototype 26](SYMBOL_prototype26/README.md) / [LOGO prototype 32
 Latest: [SYMBOL prototype 27](SYMBOL_prototype27/README.md) / [LOGO prototype 33](LOGO_prototype33/README.md): angular central spark.
 
 Latest: [SYMBOL prototype 28](SYMBOL_prototype28/README.md) / [LOGO prototype 34](LOGO_prototype34/README.md): C maximum thickness matched to wordmark.
+
+Latest layout: [LOGO prototype 35](LOGO_prototype35/README.md), using unchanged SYMBOL 28 and BRANDNAME 1 with balanced stacked proportions.
+
+Latest layout: [LOGO prototype 36](LOGO_prototype36/README.md), a compact unified lockup using unchanged SYMBOL 28 and BRANDNAME 1.
+
+Latest layout: [LOGO prototype 37](LOGO_prototype37/README.md), full-width square-canvas fit preserving the compact lockup proportions.
+
+Latest: [SYMBOL prototype 29](SYMBOL_prototype29/README.md) / [LOGO prototype 38](LOGO_prototype38/README.md): maximum C thickness matched at current logo proportions.
+
+Latest: [SYMBOL prototype 30](SYMBOL_prototype30/README.md) / [LOGO prototype 39](LOGO_prototype39/README.md): final three C segments removed; dots moved to new ends.
+
+Latest: [SYMBOL prototype 31](SYMBOL_prototype31/README.md) / [LOGO prototype 40](LOGO_prototype40/README.md): tapered endings and vertically aligned dot pairs.
+
+Latest: [SYMBOL prototype 32](SYMBOL_prototype32/README.md) / [LOGO prototype 41](LOGO_prototype41/README.md): constant thick preceding segments and rapid final-only taper.
+
+Latest: [SYMBOL prototype 33](SYMBOL_prototype33/README.md) / [LOGO prototype 42](LOGO_prototype42/README.md): small Fibonacci-guided proportional study.

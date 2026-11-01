@@ -1,0 +1,3 @@
+Method: component layout only.
+Use SYMBOL prototype 28 and frozen BRANDNAME prototype 1 unchanged.
+Create a balanced centered square studio lockup: symbol visible width approximately 90% of wordmark visible width, clear vertical separation, balanced exterior margins. Scale components uniformly. Preserve all internal colors and geometry.

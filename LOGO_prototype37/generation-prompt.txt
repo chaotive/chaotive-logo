@@ -1,0 +1,1 @@
+Fit the complete LOGO 36 visible bounds to the full square canvas width using one uniform transform. Preserve all relative proportions and spacing; center the remaining vertical space.

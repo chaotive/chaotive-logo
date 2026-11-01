@@ -1,0 +1,1 @@
+Layout refinement of LOGO 35. Move symbol down 35 units and wordmark up 35 units, reducing their visible separation by 70 units. Preserve both component scales, center axis, colors and all artwork. Keep the square transparent canvas.
