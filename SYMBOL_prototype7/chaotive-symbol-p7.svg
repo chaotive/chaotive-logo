@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Chaotive Creative Chaos symbol prototype 7</title>
+  <desc id="desc">Independent angular left and right C bodies connect only through opposite sides of the central orbit surrounding a dominant creativity spark.</desc>
+
+  <path fill="#FB011C" aria-label="Independent left C" d="
+    M 200 80
+    H 560
+    L 580 100
+    L 560 122
+    H 228
+    L 122 228
+    V 572
+    L 228 678
+    H 560
+    L 580 700
+    L 560 720
+    H 200
+    L 80 600
+    V 200
+    Z"/>
+
+  <path fill="#013787" aria-label="Independent reversed right C" d="
+    M 640 80
+    H 1000
+    L 1120 200
+    V 600
+    L 1000 720
+    H 640
+    L 620 700
+    L 640 678
+    H 972
+    L 1078 572
+    V 228
+    L 972 122
+    H 640
+    L 620 100
+    Z"/>
+
+  <g fill="none" stroke="#FB011C" stroke-linecap="round" aria-label="Enlarged orbit with tapered connection approaches">
+    <path d="M 723.8 262.5 A 185 185 0 0 1 542.8 575.9" stroke-width="18"/>
+    <path d="M 476.2 537.5 A 185 185 0 0 1 657.2 224.1" stroke-width="18"/>
+    <path d="M 657.2 224.1 A 185 185 0 0 1 723.8 262.5" stroke-width="10"/>
+    <path d="M 542.8 575.9 A 185 185 0 0 1 476.2 537.5" stroke-width="10"/>
+  </g>
+
+  <path fill="#FB011C" aria-label="Only connection from left C to upper-right orbit" d="M 562.7 117.9 L 577.3 104.1 L 698.6 232.6 L 691.4 239.4 Z"/>
+  <path fill="#013787" aria-label="Only connection from right C to lower-left orbit" d="M 637.5 693.4 L 622.5 706.6 L 503.7 563.3 L 511.3 556.7 Z"/>
+
+  <g fill="#FB011C" aria-label="Three planets seated on the enlarged orbit">
+    <circle cx="600" cy="215" r="26"/>
+    <circle cx="760" cy="493" r="23"/>
+    <circle cx="440" cy="493" r="21"/>
+  </g>
+
+  <path fill="#013787" aria-label="Dominant central creativity spark" d="
+    M 600 275
+    C 620 341 659 380 725 400
+    C 659 420 620 459 600 525
+    C 580 459 541 420 475 400
+    C 541 380 580 341 600 275
+    Z"/>
+</svg>

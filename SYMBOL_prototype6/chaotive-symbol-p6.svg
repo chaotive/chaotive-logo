@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Chaotive Creative Chaos symbol prototype 6</title>
+  <desc id="desc">Thin angular opposing Cs connect diagonally into an enlarged orbit surrounding a larger central creativity spark.</desc>
+  <defs>
+    <path id="connectedCs" fill-rule="evenodd" d="
+      M 200 80
+      H 540
+      L 575 115
+      H 600
+      L 635 80
+      H 1000
+      L 1120 200
+      V 600
+      L 1000 720
+      H 660
+      L 625 685
+      H 600
+      L 565 720
+      H 200
+      L 80 600
+      V 200
+      Z
+
+      M 228 122
+      H 520
+      L 555 157
+      H 600
+      L 645 122
+      H 972
+      L 1078 228
+      V 572
+      L 972 678
+      H 680
+      L 645 643
+      H 600
+      L 555 678
+      H 228
+      L 122 572
+      V 228
+      Z"/>
+
+    <clipPath id="leftHalf">
+      <path d="M 0 0 H 600 L 575 105 L 625 145 L 600 200 V 600 L 625 655 L 575 695 L 600 800 H 0 Z"/>
+    </clipPath>
+    <clipPath id="rightHalf">
+      <path d="M 1200 0 H 600 L 575 105 L 625 145 L 600 200 V 600 L 625 655 L 575 695 L 600 800 H 1200 Z"/>
+    </clipPath>
+  </defs>
+
+  <g aria-label="Fine wide connected opposing C enclosure">
+    <use href="#connectedCs" fill="#FB011C" clip-path="url(#leftHalf)"/>
+    <use href="#connectedCs" fill="#013787" clip-path="url(#rightHalf)"/>
+  </g>
+
+  <g fill="none" stroke="#FB011C" stroke-linecap="round" aria-label="Enlarged orbit with tapered connection approaches">
+    <path d="M 723.8 262.5 A 185 185 0 0 1 542.8 575.9" stroke-width="18"/>
+    <path d="M 476.2 537.5 A 185 185 0 0 1 657.2 224.1" stroke-width="18"/>
+    <path d="M 657.2 224.1 A 185 185 0 0 1 723.8 262.5" stroke-width="10"/>
+    <path d="M 542.8 575.9 A 185 185 0 0 1 476.2 537.5" stroke-width="10"/>
+  </g>
+
+  <path fill="#FB011C" aria-label="Left C to upper-right orbit connector" d="M 554.7 165.5 L 565.3 148.5 L 695.2 235.6 L 689.8 244 Z"/>
+  <path fill="#013787" aria-label="Right C to lower-left orbit connector" d="M 655 634.3 L 645 651.7 L 504.5 564.3 L 509.5 555.7 Z"/>
+
+  <g fill="#FB011C" aria-label="Three planets seated on the enlarged orbit">
+    <circle cx="600" cy="215" r="26"/>
+    <circle cx="760" cy="493" r="23"/>
+    <circle cx="440" cy="493" r="21"/>
+  </g>
+
+  <path fill="#013787" aria-label="Enlarged central creativity spark" d="
+    M 600 275
+    C 620 341 659 380 725 400
+    C 659 420 620 459 600 525
+    C 580 459 541 420 475 400
+    C 541 380 580 341 600 275
+    Z"/>
+</svg>

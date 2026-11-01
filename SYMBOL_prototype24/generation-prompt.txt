@@ -1,0 +1,1 @@
+C beginning dot centers share vertical guides with the orbit lateral centerline extrema: crimson x=415 and navy x=785. Thin free terminal lengths adjusted; all other geometry preserved.

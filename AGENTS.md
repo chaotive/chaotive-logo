@@ -1,8 +1,22 @@
 # Chaotive brand direction
 
+## User-facing communication
+
+- Show design results, image previews, meaningful visual changes and links to the relevant logo assets or showcase.
+- Do not show CJS, JavaScript or other implementation code, helper scripts, code snippets, or routine technical command details to the user unless explicitly requested. These are irrelevant to the user's design review.
+- Keep progress updates and final responses focused on the artwork and design decisions.
+
+## Pending exact letterform requirement
+
+The user requires both enclosing Cs to reproduce the actual skeleton of the C in frozen BRANDNAME prototype 1, rather than merely share angular styling. Preserve the letter's proportions, clipped shoulder, terminal construction and corner geometry; mirror the same shape for the right C. SYMBOL prototype 17 / LOGO prototype 23 are unsuccessful exploratory reconstructions, not the accepted current design. SYMBOL 16 / LOGO 22 remain the last current design until a faithful letter-derived replacement is verified. The available frozen wordmark is a raster PNG, so do not claim an exact source-vector match from an approximate redraw.
+
+The brand folder and source prototypes have been checked: they contain generated PNGs, not original vector letterforms. Do not ask the user to supply a vector that this project never produced. A clipped source-C reference is saved in SYMBOL_prototype18/wordmark-c-reference.svg. SYMBOL 18 / LOGO 24 test direct raster-letter reuse, but their heavy letter bodies and orbit arrangement are exploratory and do not replace the current design. Future refinement should derive a thin enclosing skeleton from that source C while preserving the established layout.
+
 ## Project intent
 
 Chaotive is the videogame studio brand of an individual developer. The name means **creative chaos**. The identity should express that meaning while feeling distinctive, professional, and suitable for an independent game studio.
+
+The symbol's inspirations also include **electricity, circuitry, and energy**. Its connected paths, circuit-like nodes, and central spark can express creative energy flowing through the identity. These complement the existing Creative Chaos and orbital ideas; this documentation addition does not request an artwork change.
 
 ## Logo brief
 
@@ -40,15 +54,17 @@ Prototype 5 returns to prototype 3's favored wordmark styling. CHAO is navy and 
 
 Prototype 6 preserves prototype 5's wordmark. The crimson normal C and mirrored navy C face inward and connect at their top and bottom terminals to read as one two-color emblem. Keep the simplified three-node orbit inside the chaos C and the simplified two-spark motif inside the creativity C. The C bodies define the clean outer boundary.
 
-The identity is now split into three tracks. BRANDNAME prototype 1 freezes the navy CHAO / crimson TIVE wordmark. SYMBOL prototype 4 is the active exploration: its connected opposing C enclosure is now a wide 3:2 component using the exact dominant wordmark colors, while preserving the approved spark and continuous three-planet orbit. LOGO prototype 10 allocates the upper two-thirds of the square lockup to SYMBOL prototype 4 and the lower third to the frozen wordmark.
+The identity is now split into three tracks. BRANDNAME prototype 1 freezes the navy CHAO / crimson TIVE wordmark. SYMBOL prototype 6 is the active exploration: its fine angular opposing Cs connect diagonally into an enlarged orbit through narrow tapered conduits, while a proportionally larger four-point spark dominates the center. LOGO prototype 12 preserves the established upper-two-thirds symbol / lower-third wordmark square lockup.
 
 ## Active identity decisions
 
 - **Working track:** Continue iterating only on SYMBOL unless the user explicitly reopens BRAND NAME. Each accepted symbol iteration also receives a new assembled LOGO version.
 - **Frozen wordmark:** BRANDNAME prototype 1 remains unchanged. Preserve the exact CHAOTIVE spelling, custom letterforms, proportions and kerning. CHAO is navy and TIVE is crimson.
-- **Approved spark:** The navy four-point creativity spark from SYMBOL prototype 2 is approved. Keep its path, size and exact central position unchanged unless the user explicitly requests a spark revision.
-- **C enclosure:** Keep the connected opposing-C concept, crimson left half, navy right half, interlocking top/bottom seam and fully closed far-right navy boundary. Current preference is for fine styled bands, generous inner negative space and a wide 3:2 enclosure rather than a square enclosure.
+- **Spark:** Preserve the approved four-point curvature and exact center. SYMBOL prototype 6 intentionally enlarges its footprint from 200 to 250 units so it remains the dominant idea in the assembled logo.
+- **C enclosure:** Keep the connected opposing-C concept, crimson left half, navy right half, interlocking top/bottom seam and fully closed far-right navy boundary. Use a wide 3:2 enclosure with a band near 6.5% of enclosure height so it remains a secondary frame. Its 45-degree chamfers, clipped corners and angular center transitions should feel related to the frozen wordmark.
 - **Orbit system:** Use one clean continuous crimson circle centered exactly on the spark. Keep exactly three planets, with their centers directly on the orbit line and the line continuing beneath them so no planet appears detached. The current balanced arrangement uses 120-degree spacing and only subtle size differences.
+- **Frame-to-orbit connections:** The left crimson C feeds from its upper inner/right terminal into the orbit's upper-right quadrant. The right navy C feeds from its lower inner/left terminal into the orbit's lower-left quadrant. Use narrow angular conduits that taper from about 20 units at the frame to 10 at the orbit. The orbit itself narrows to 10-unit approach arcs around both junctions and uses an 18-unit main stroke.
+- **Hierarchy:** The orbit-and-spark Creative Chaos idea is the primary read; the enclosing Cs are a lighter supporting structure. This decision is informed by official game-brand references documented in `SYMBOL_prototype5/research-notes.md`, without copying their geometry.
 - **Composition:** SYMBOL is a transparent wide 3:2 component. The assembled LOGO remains square: reserve its upper two-thirds for SYMBOL and its lower third for the frozen BRAND NAME. Both share the same visible left and right guides and vertical center axis.
 - **Production geometry:** SYMBOL prototypes 2 onward have editable SVG masters and transparent PNG exports. Prefer deterministic SVG edits for precise geometry; use the PNGs in the self-contained HTML showcase.
 - **Palette and finish:** Match BRANDNAME prototype 1 using its sampled dominant colors: crimson `#FB011C` and navy `#013787`. Use these as flat solid symbol colors. Avoid unrelated hues, shading, glows, dust, grain, stray particles, backgrounds and raster artifacts.
@@ -61,3 +77,83 @@ The first generated concept retains the original's oversized red A and dark lett
 - Local application showcase: `logo-showcase.html`
 
 The showcase includes light and dark backgrounds, monochrome treatments, a game splash screen, a studio website header, illustrative store artwork, and interactive background and scale controls. Mockup copy and artwork are illustrative and do not represent announced games or confirmed brand messaging.
+
+## Latest decisions — 2026-10-31
+
+Current: SYMBOL prototype 8 + frozen BRANDNAME prototype 1 = LOGO prototype 14. Independent Cs have no direct top or bottom connection. Left C joins only the upper orbit; right C joins only the lower orbit. C strokes are 18 units and orbit strokes 42 units, with clear breaks before the two junctions. The centered spark uses a crisp diagonal split of crimson #FB011C and navy #013787. These decisions supersede earlier continuous-orbit and single-color-spark rules.
+
+## Latest decisions — 2026-11-01
+
+Current: SYMBOL prototype 9 + frozen BRANDNAME prototype 1 = LOGO prototype 15. Spark uses one solid #7E1C52, the equal RGB mix of crimson #FB011C and navy #013787. Orbit left arc is crimson and right arc navy, divided at the C junctions. Each independent C grows from an 8-unit free terminal to a 42-unit orbit junction. Preserve the orbital breaks and square assembled layout. These decisions supersede the earlier split-color spark and uniform C weights.
+
+## Latest decisions — SYMBOL 10 / LOGO 16
+
+Current: SYMBOL prototype 10 + frozen BRANDNAME prototype 1 = LOGO prototype 16. Orbit colors are inverted from SYMBOL 9: right crimson #FB011C, left navy #013787. Each circular arc progressively tapers from 42 units at its originating C junction to 8 units before the opposite junction. Planets follow their arc color. Preserve the single purple spark #7E1C52, tapered independent Cs and square layout.
+
+## Latest decisions — SYMBOL 11 / LOGO 17
+
+Current: SYMBOL prototype 11 + frozen BRANDNAME prototype 1 = LOGO prototype 17. Each C joins its matching-color orbit arc as one continuous ribbon, with tangent-aligned edges and equal 42-unit junction thickness. Orbit ends taper to 8 units and terminate in exactly two small dots on the vertical centerline above and below the spark. Spark returns to a crisp diagonal crimson/navy split. These supersede earlier three-dot and mixed-purple decisions.
+
+## Latest decisions — SYMBOL 12 / LOGO 18
+
+Current: SYMBOL prototype 12 + frozen BRANDNAME prototype 1 = LOGO prototype 18. Each orbit must follow the exact 45-degree direction of its incoming C diagonal. Reshape the orbit rather than bending the incoming line. Both entries are rotationally symmetric with matching tangents. Preserve two endpoint dots, two-color spark, palette and taper.
+
+## Latest decisions — SYMBOL 13 / LOGO 19
+
+Current: SYMBOL prototype 13 + frozen BRANDNAME prototype 1 = LOGO prototype 19. Reduce visible symbol width by 25% by bringing the two outer C sides inward equally. Preserve inner orbit and spark dimensions, height, endpoint dots, connection angles and line weights. The narrower symbol supersedes the earlier shared-width requirement in the assembled logo.
+
+## Latest decisions — SYMBOL 14 / LOGO 20
+
+Current: SYMBOL prototype 14 + frozen BRANDNAME prototype 1 = LOGO prototype 20. Add radius-15 dots to both free C beginnings, matching the orbit endpoint dots: crimson lower terminal and navy upper terminal. All prior dimensions, taper, matching entry angles and two-color spark remain preserved.
+
+## Latest decisions — SYMBOL 15 / LOGO 21
+
+Current: SYMBOL prototype 15 + frozen BRANDNAME prototype 1 = LOGO prototype 21. All four dots must share the vertical centerline x=600 through the spark center and symbol canvas. Extend thin C free terminals to the guide so dots stay attached. Preserve all other geometry.
+
+## Latest decisions — SYMBOL 16 / LOGO 22
+
+Current: SYMBOL prototype 16 + frozen BRANDNAME prototype 1 = LOGO prototype 22. Refine outer C contours using precise guides, crisp 45-degree corner miters and deliberate angular cuts related to the wordmark. Use rotational symmetry and integrated free terminals. Preserve orbit flow, tapered weights, aligned dots and two-color spark.
+
+## Clarified requirement — centerline, 2026-11-01
+
+The user clarified that the enclosing C centerline must follow the brand-name C centerline, while its stroke width can differ. Direct reuse of the heavy raster silhouette is unnecessary. SYMBOL prototype 19 / LOGO prototype 25 record a letter-derived centerline exploration; the same path is mirrored horizontally for the right C. Source tracing is in SYMBOL_prototype19/c-centerline-reference.svg. Orbit attachments in this study need further aesthetic refinement; do not describe the raster-derived trace as a mathematically exact original font skeleton.
+
+## Right C orientation clarification
+
+SYMBOL prototype 20 / LOGO prototype 26: right C must be the left C rotated 180 degrees (both horizontal and vertical inversion), not a horizontal mirror alone. Its upper/lower asymmetry and inward return must invert too. Current orbit attachments remain an exploratory arrangement requiring refinement.
+
+## Latest decisions — SYMBOL 21 / LOGO 27
+
+Current: SYMBOL prototype 21 + frozen BRANDNAME prototype 1 = LOGO prototype 27. Restore dots at free C beginnings. C widths grow progressively from 8 to 42 units toward the orbit. Each C and orbit must form a continuous contour with no separate crossing connector or protruding stub. Keep the spark interior clear. Right C retains 180-degree inversion. This supersedes the crossing attachment studies.
+
+## Latest decisions — SYMBOL 22 / LOGO 28
+
+Current: SYMBOL prototype 22 + frozen BRANDNAME prototype 1 = LOGO prototype 28. Each orbit starts straight in the exact direction of the final C segment, with identical thickness at the join. Reshape the orbit to achieve this and preserve spark clearance. Preserve taper, dots, palette and inverted right C.
+
+## Latest decisions — SYMBOL 23 / LOGO 29
+
+Current: SYMBOL prototype 23 + frozen BRANDNAME prototype 1 = LOGO prototype 29. The top C line flows directly into the top orbit on a continuous horizontal tangent, with no hard step, vertical detour or kink. Opposite transition uses 180-degree symmetry. This supersedes the stepped entry in SYMBOL 22. Preserve taper, dots and clear spark interior.
+
+## Archive pruning
+
+The user requested deletion of LOGO prototypes 25–28. Those assembled-logo folders and showcase entries are removed. Their SYMBOL prototypes 19–22 remain available. Historical mentions above describe deleted assemblies; do not recreate them automatically. LOGO 29 / SYMBOL 23 remain current. Preserve numbering gaps.
+
+## Latest decisions — SYMBOL 24 / LOGO 30
+
+Current: SYMBOL prototype 24 + frozen BRANDNAME prototype 1 = LOGO prototype 30. Free C dot centers align vertically with lateral orbit centerline extrema: crimson x=415 and navy x=785. This supersedes the earlier common-centerline alignment for C beginning dots. Preserve all other geometry.
+
+## Latest decisions — SYMBOL 25 / LOGO 31
+
+Current: SYMBOL prototype 25 + frozen BRANDNAME prototype 1 = LOGO prototype 31. Orbit uses hard straight segments and clipped 45-degree corners matching the Cs instead of rounded curves. Preserve continuous joins, taper, dot alignment, two-color spark and inverted right C. This supersedes earlier rounded-orbit geometry.
+
+## Latest decisions — SYMBOL 26 / LOGO 32
+
+Current: SYMBOL prototype 26 + frozen BRANDNAME prototype 1 = LOGO prototype 32. Entire symbol enlarged uniformly by 25% in the assembled square logo, around its existing center. Preserve relative component geometry; brand name stays unchanged. Standalone export is 1125×1000.
+
+## Latest decisions — SYMBOL 27 / LOGO 33
+
+Current: SYMBOL prototype 27 + frozen BRANDNAME prototype 1 = LOGO prototype 33. Spark uses straight facets and hard corners, preserving its four points, exact center, size and diagonal two-color split. This supersedes curved spark geometry. Preserve the enlarged symbol and angular orbit.
+
+## Latest decisions — SYMBOL 28 / LOGO 34
+
+Current: SYMBOL prototype 28 + frozen BRANDNAME prototype 1 = LOGO prototype 34. Maximum symbol C stroke matches the frozen wordmark C main stem at actual assembly scale: approximately 56.85 rendered pixels, or 43.522 symbol units. Preserve 8-unit free beginnings and progressive widening. All angular shapes, dots and spark remain preserved.

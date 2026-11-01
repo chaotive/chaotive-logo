@@ -1,0 +1,2 @@
+SYMBOL prototype 18 + frozen BRANDNAME prototype 1.
+Method: direct source-raster reuse inside SVG.

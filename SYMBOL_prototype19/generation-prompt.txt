@@ -1,0 +1,1 @@
+Uses a centerline traced from the frozen wordmark C rather than its full heavy silhouette. The same uniformly scaled path is mirrored horizontally for the right C. Stroke thickness is independently adjustable. This raster-derived tracing requires visual review for exactness.

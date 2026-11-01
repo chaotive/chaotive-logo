@@ -1,0 +1,1 @@
+Orbit rebuilt from straight segments and clipped 45-degree corners matching the hard angular C construction. Continuous C-to-orbit contours, tapered weights, four dots and two-color spark preserved.

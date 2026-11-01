@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Chaotive Creative Chaos symbol prototype 5</title>
+  <desc id="desc">A fine wide connected opposing C frame gives visual priority to the approved central spark and continuous three-planet orbit.</desc>
+  <defs>
+    <path id="connectedCs" fill-rule="evenodd" d="
+      M 200 80
+      H 540
+      L 575 115
+      H 600
+      L 635 80
+      H 1000
+      L 1120 200
+      V 600
+      L 1000 720
+      H 660
+      L 625 685
+      H 600
+      L 565 720
+      H 200
+      L 80 600
+      V 200
+      Z
+
+      M 228 122
+      H 520
+      L 555 157
+      H 600
+      L 645 122
+      H 972
+      L 1078 228
+      V 572
+      L 972 678
+      H 680
+      L 645 643
+      H 600
+      L 555 678
+      H 228
+      L 122 572
+      V 228
+      Z"/>
+
+    <clipPath id="leftHalf">
+      <path d="M 0 0 H 600 L 575 105 L 625 145 L 600 200 V 600 L 625 655 L 575 695 L 600 800 H 0 Z"/>
+    </clipPath>
+    <clipPath id="rightHalf">
+      <path d="M 1200 0 H 600 L 575 105 L 625 145 L 600 200 V 600 L 625 655 L 575 695 L 600 800 H 1200 Z"/>
+    </clipPath>
+  </defs>
+
+  <g aria-label="Fine wide connected opposing C enclosure">
+    <use href="#connectedCs" fill="#FB011C" clip-path="url(#leftHalf)"/>
+    <use href="#connectedCs" fill="#013787" clip-path="url(#rightHalf)"/>
+  </g>
+
+  <circle cx="600" cy="400" r="170" fill="none" stroke="#FB011C" stroke-width="22" aria-label="Dominant continuous circular orbit"/>
+
+  <g fill="#FB011C" aria-label="Three planets seated on the orbit">
+    <circle cx="600" cy="230" r="26"/>
+    <circle cx="747" cy="485" r="23"/>
+    <circle cx="453" cy="485" r="21"/>
+  </g>
+
+  <path fill="#013787" aria-label="Approved central creativity spark" d="
+    M 600 300
+    C 616 353 647 384 700 400
+    C 647 416 616 447 600 500
+    C 584 447 553 416 500 400
+    C 553 384 584 353 600 300
+    Z"/>
+</svg>

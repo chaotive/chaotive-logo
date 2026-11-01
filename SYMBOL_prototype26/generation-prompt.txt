@@ -1,0 +1,1 @@
+Entire SYMBOL 25 scaled uniformly by 1.25: export increases from 900×800 to 1125×1000. All relative geometry and colors preserved.

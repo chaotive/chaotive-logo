@@ -1,0 +1,10 @@
+Method: deterministic SVG refinement of SYMBOL prototype 4, informed by official game-company brand references.
+
+- Preserve the wide 3:2 connected opposing-C enclosure, interlocking center seam, closed right boundary and sampled brand colors navy #013787 / crimson #FB011C.
+- Reduce the enclosing C-band thickness to approximately 6.5% of the enclosure height so it reads as a secondary frame.
+- Make the enclosure aesthetically compatible with BRANDNAME prototype 1 by using its 45-degree chamfers, clipped corners and angular cut language at the center connections; avoid soft organic joints.
+- Give the inner Creative Chaos graphic greater visual importance without altering the approved spark path, size or center.
+- Increase the continuous circular orbit radius from 155 to 170 and its stroke from 20 to 22.
+- Keep exactly three planets seated directly on the uninterrupted orbit line at balanced intervals.
+- Maintain generous negative space, transparent background and clean flat vector geometry.
+- Do not copy any referenced company logo geometry or introduce new motifs.

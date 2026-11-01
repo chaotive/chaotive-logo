@@ -1,0 +1,11 @@
+Method: deterministic SVG refinement of SYMBOL prototype 5.
+
+- Preserve the thin angular wide C enclosure, closed right boundary, interlocking center seam and brand-matched palette.
+- Connect the left crimson C from its upper inner/right terminal to the orbit's upper-right quadrant using a narrow tapered angular conduit, approximately 20 units at the frame and 10 at the orbit.
+- Connect the right navy C from its lower inner/left terminal to the orbit's lower-left quadrant using a matching narrow tapered conduit.
+- Increase orbit radius from 170 to 185.
+- Use an 18-unit main orbit stroke that narrows to 10 units immediately around both bridge junctions, so each connection remains legible.
+- Enlarge the centered four-point spark proportionally from 200 to 250 units while preserving its approved curvature and exact center.
+- Reposition exactly three planets directly on the enlarged circle.
+- Maintain the 3:2 transparent canvas, exact colors #FB011C and #013787, and clean flat vector construction.
+- Avoid crossings through the spark, detached connectors, extra nodes, gradients, shadows, texture or background.

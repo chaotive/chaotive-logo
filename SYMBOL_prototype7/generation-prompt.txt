@@ -1,0 +1,12 @@
+Method: deterministic SVG refinement of SYMBOL prototype 6.
+
+- Separate the crimson left C and navy reversed right C completely at both their upper and lower center terminals.
+- Leave a clear consistent gap between both Cs at the top and at the bottom.
+- Connect the left C only from its upper/right terminal to the orbit's upper-right tapered approach.
+- Keep the left C's lower/right terminal open and disconnected.
+- Connect the right C only from its lower/left terminal to the orbit's lower-left tapered approach.
+- Keep the right C's upper/left terminal open and disconnected.
+- The orbit must be the only path that structurally relates the two C bodies.
+- Preserve the enlarged radius-185 orbit, 18-unit main stroke, 10-unit approach arcs, three planets, 250-unit centered spark, wide 3:2 canvas and colors #FB011C / #013787.
+- Maintain clipped 45-degree terminals compatible with the frozen wordmark.
+- Avoid any direct C-to-C bridge, accidental overlap, detached connector, background, gradient, shadow or texture.

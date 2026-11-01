@@ -1,0 +1,1 @@
+SYMBOL prototype 11 + frozen BRANDNAME prototype 1; square established layout.

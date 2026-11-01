@@ -1,0 +1,2 @@
+SYMBOL prototype 9 + frozen BRANDNAME prototype 1; square two-thirds symbol / one-third wordmark layout.
+Method: precise vector refinement.

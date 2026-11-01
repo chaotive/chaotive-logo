@@ -1,0 +1,1 @@
+All four dot centers align on x=600, the vertical centerline of the canvas and spark. Free C terminals extend to that guide with their existing thin weight. Other geometry preserved.

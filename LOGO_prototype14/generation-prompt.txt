@@ -1,0 +1,2 @@
+SYMBOL prototype 8 + frozen BRANDNAME prototype 1; established square allocation.
+Method: deterministic SVG refinement.

@@ -1,0 +1,2 @@
+18-unit independent C strokes; 42-unit orbit arcs with breaks before both connections; centered spark split diagonally between exact crimson and navy.
+Method: deterministic SVG refinement.

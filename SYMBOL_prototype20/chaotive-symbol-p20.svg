@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 0 900 800"><title>Chaotive symbol prototype 20 — letter centerline</title><defs><linearGradient id="spark" x1="0" y1="1" x2="1" y2="0"><stop offset="50%" stop-color="#013787"/><stop offset="50%" stop-color="#FB011C"/></linearGradient></defs><path d="M 487.40 330.40 L 554.60 270.40 L 561.80 188.80 L 509.00 169.60 L 302.60 169.60 L 168.20 299.20 L 168.20 527.20 L 261.80 630.40 L 497.00 630.40" fill="none" stroke="#FB011C" stroke-width="22" stroke-linejoin="miter"/><g transform="translate(0 800) scale(1 -1)"><path d="M 712.60 330.40 L 645.40 270.40 L 638.20 188.80 L 691.00 169.60 L 897.40 169.60 L 1031.80 299.20 L 1031.80 527.20 L 938.20 630.40 L 703.00 630.40" fill="none" stroke="#013787" stroke-width="22" stroke-linejoin="miter"/></g><path d="M 487.4 330.4 L 690 246 C 755 311 795 345 785 415 C 775 500 700 585 600 585" fill="none" stroke="#FB011C" stroke-width="22"/><path d="M 712.6 469.6 L 510 554 C 445 489 405 455 415 385 C 425 300 500 215 600 215" fill="none" stroke="#013787" stroke-width="22"/><path fill="url(#spark)" aria-label="Dominant central creativity spark" d="
+    M 600 275
+    C 620 341 659 380 725 400
+    C 659 420 620 459 600 525
+    C 580 459 541 420 475 400
+    C 541 380 580 341 600 275
+    Z"/><circle cx="600" cy="215" r="15" fill="#013787"/><circle cx="600" cy="585" r="15" fill="#FB011C"/></svg>

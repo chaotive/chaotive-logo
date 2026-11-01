@@ -1,0 +1,1 @@
+Added matching radius-15 dots to both free C beginnings: crimson at the lower-left C terminal and navy at the upper-right C terminal. Dot sizes match the orbit terminal dots. All other geometry preserved.

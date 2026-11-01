@@ -1,0 +1,1 @@
+Outer C sides moved inward equally, reducing visible total width by exactly 25%. Orbit, spark, dots, junction angles, vertical dimensions and stroke thicknesses preserved. Standalone canvas narrowed from 1200 to 900 units.

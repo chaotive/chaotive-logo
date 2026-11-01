@@ -1,0 +1,1 @@
+SYMBOL prototype 23 + frozen BRANDNAME prototype 1.

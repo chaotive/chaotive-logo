@@ -2,6 +2,8 @@
 
 This workspace records the evolution of the Chaotive identity. Chaotive is a solo videogame studio brand built around the idea of **creative chaos**.
 
+The symbol also draws inspiration from **electricity, circuitry, and energy**: connected paths, circuit-like nodes, and the central spark express creative energy flowing through the identity.
+
 Open the [comparative logo showcase](logo-showcase.html) to see every prototype immediately, then compare them on the same backgrounds, at the same scale, and in a shared avatar test. The page is one standalone HTML file with every logo embedded.
 
 ## Current component system
@@ -10,11 +12,11 @@ The identity now uses three independently versioned tracks:
 
 | Element | Current version | Status | Asset |
 | --- | --- | --- | --- |
-| LOGO | [Prototype 10](LOGO_prototype10/README.md) | Current assembled logo | [PNG](LOGO_prototype10/chaotive-logo-p10.png) |
+| LOGO | [Prototype 12](LOGO_prototype12/README.md) | Current assembled logo | [PNG](LOGO_prototype12/chaotive-logo-p12.png) |
 | BRAND NAME | [Prototype 1](BRANDNAME_prototype1/README.md) | Frozen for now | [PNG](BRANDNAME_prototype1/chaotive-brandname-p1.png) |
-| SYMBOL | [Prototype 4](SYMBOL_prototype4/README.md) | Active exploration | [PNG](SYMBOL_prototype4/chaotive-symbol-p4.png) · [SVG](SYMBOL_prototype4/chaotive-symbol-p4.svg) |
+| SYMBOL | [Prototype 6](SYMBOL_prototype6/README.md) | Active exploration | [PNG](SYMBOL_prototype6/chaotive-symbol-p6.png) · [SVG](SYMBOL_prototype6/chaotive-symbol-p6.svg) |
 
-**SYMBOL prototype 4 + BRANDNAME prototype 1 = LOGO prototype 10**
+**SYMBOL prototype 6 + BRANDNAME prototype 1 = LOGO prototype 12**
 
 ## Legacy full-logo prototype index
 
@@ -30,8 +32,10 @@ The identity now uses three independently versioned tracks:
 | [LOGO prototype 8](LOGO_prototype8/README.md) | Thin Creative Chaos system | Combines the frozen wordmark with SYMBOL prototype 2: thinner styled C bands, a centered spark pivot and a more eccentric fragmented orbit. | [PNG](LOGO_prototype8/chaotive-logo-p8.png) · [SVG](LOGO_prototype8/chaotive-logo-p8.svg) |
 | [LOGO prototype 9](LOGO_prototype9/README.md) | Circular orbit system | Keeps the approved spark, thins the C enclosure again, and seats three balanced planets directly on one continuous circular orbit. | [PNG](LOGO_prototype9/chaotive-logo-p9.png) · [SVG](LOGO_prototype9/chaotive-logo-p9.svg) |
 | [LOGO prototype 10](LOGO_prototype10/README.md) | Wide two-thirds symbol system | Matches the frozen wordmark palette, widens the C enclosure to 3:2, and divides the square lockup into two-thirds symbol and one-third brand name. | [PNG](LOGO_prototype10/chaotive-logo-p10.png) · [SVG](LOGO_prototype10/chaotive-logo-p10.svg) |
+| [LOGO prototype 11](LOGO_prototype11/README.md) | Inner-first angular frame | Reduces the wide C enclosure to a wordmark-compatible angular frame and gives the orbit-and-spark graphic clear visual priority. | [PNG](LOGO_prototype11/chaotive-logo-p11.png) · [SVG](LOGO_prototype11/chaotive-logo-p11.svg) |
+| [LOGO prototype 12](LOGO_prototype12/README.md) | Connected energy system | Feeds both opposing Cs diagonally into a larger orbit through tapered junctions and enlarges the central spark for greater logo-scale dominance. | [PNG](LOGO_prototype12/chaotive-logo-p12.png) · [SVG](LOGO_prototype12/chaotive-logo-p12.svg) |
 
-**Latest assembled logo:** LOGO prototype 10.
+**Latest assembled logo:** LOGO prototype 34.
 
 ## Versioning convention
 
@@ -46,3 +50,43 @@ The identity now uses three independently versioned tracks:
 - HTML showcases are self-contained and can be opened directly in a browser.
 
 All generated logos are raster design prototypes. A chosen direction should eventually be rebuilt as vector artwork for exact geometry, spacing, responsive lockups, and production-ready color variants.
+
+## Latest refinement
+
+Current SYMBOL: [prototype 8](SYMBOL_prototype8/README.md). Current LOGO: [prototype 14](LOGO_prototype14/README.md).
+
+Preserved intermediate: [SYMBOL 7](SYMBOL_prototype7/README.md) / [LOGO 13](LOGO_prototype13/README.md).
+
+Current components: [SYMBOL prototype 9](SYMBOL_prototype9/README.md) + frozen BRANDNAME prototype 1 = [LOGO prototype 15](LOGO_prototype15/README.md). Tapered Cs, red/blue orbit and single blended purple spark.
+
+Latest: [SYMBOL prototype 10](SYMBOL_prototype10/README.md) + frozen BRANDNAME 1 = [LOGO prototype 16](LOGO_prototype16/README.md). Reversed orbit colors and gradual arc taper.
+
+Latest design: [SYMBOL prototype 11](SYMBOL_prototype11/README.md) + frozen BRANDNAME 1 = [LOGO prototype 17](LOGO_prototype17/README.md). Continuous matching joins, two terminal dots and restored two-color spark.
+
+Latest: [SYMBOL prototype 12](SYMBOL_prototype12/README.md) + frozen BRANDNAME 1 = [LOGO prototype 18](LOGO_prototype18/README.md). Matching 45-degree C-to-orbit entries.
+
+Latest: [SYMBOL prototype 13](SYMBOL_prototype13/README.md) + frozen BRANDNAME 1 = [LOGO prototype 19](LOGO_prototype19/README.md). Symbol width reduced 25%; inner geometry preserved.
+
+Latest: [SYMBOL prototype 14](SYMBOL_prototype14/README.md) + frozen BRANDNAME 1 = [LOGO prototype 20](LOGO_prototype20/README.md). Matching dots at both free C beginnings.
+
+Latest: [SYMBOL prototype 15](SYMBOL_prototype15/README.md) + frozen BRANDNAME 1 = [LOGO prototype 21](LOGO_prototype21/README.md). All four dots aligned with the spark center.
+
+Latest: [SYMBOL prototype 16](SYMBOL_prototype16/README.md) + frozen BRANDNAME 1 = [LOGO prototype 22](LOGO_prototype22/README.md). Refined angular contours matching the wordmark style.
+
+
+
+
+
+Latest: [SYMBOL prototype 23](SYMBOL_prototype23/README.md) / [LOGO prototype 29](LOGO_prototype29/README.md): smooth top-line orbital flow.
+
+LOGO prototypes 25–28 were deleted at the user’s request. Their independent SYMBOL studies are retained. Prototype 29 remains current; numbering is preserved.
+
+Latest: [SYMBOL prototype 24](SYMBOL_prototype24/README.md) / [LOGO prototype 30](LOGO_prototype30/README.md): C starting dots aligned to orbit sides.
+
+Latest: [SYMBOL prototype 25](SYMBOL_prototype25/README.md) / [LOGO prototype 31](LOGO_prototype31/README.md): angular orbit matching the Cs.
+
+Latest: [SYMBOL prototype 26](SYMBOL_prototype26/README.md) / [LOGO prototype 32](LOGO_prototype32/README.md): entire symbol enlarged 25%.
+
+Latest: [SYMBOL prototype 27](SYMBOL_prototype27/README.md) / [LOGO prototype 33](LOGO_prototype33/README.md): angular central spark.
+
+Latest: [SYMBOL prototype 28](SYMBOL_prototype28/README.md) / [LOGO prototype 34](LOGO_prototype34/README.md): C maximum thickness matched to wordmark.

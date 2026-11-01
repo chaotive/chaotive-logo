@@ -1,0 +1,8 @@
+# LOGO_prototype32
+
+Date: 2026-11-01
+Status: Current exploration
+
+SYMBOL prototype 26 is displayed 25% larger, centered on the previous symbol center. Frozen BRANDNAME 1 and square canvas remain unchanged. Based on LOGO 31.
+
+Files: SVG, PNG and generation-prompt.txt.

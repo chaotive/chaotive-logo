@@ -1,0 +1,1 @@
+Orbit colors inverted: right crimson, left navy. Each arc smoothly narrows from 42 units at its originating C junction to 8 units before the opposite junction. Planet colors follow their arc. Purple spark and C proportions preserved.
